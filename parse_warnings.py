@@ -1,6 +1,3 @@
-parse_warnings.py
-
-
 import argparse
 import csv
 import re
